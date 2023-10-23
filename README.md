@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm a PhD candidate in Dr. Alejandro Strachan’s lab at Purdue University. My research interests include high-throughput density functional theory, semi-supervised machine learning, and 2D materials.
+
 <!--
 **katnykiel/katnykiel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
