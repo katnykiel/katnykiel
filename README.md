@@ -1,5 +1,3 @@
-### Hi there 👋
-
 I'm a PhD candidate in Dr. Alejandro Strachan’s lab at Purdue University. My research interests include high-throughput density functional theory, semi-supervised machine learning, and 2D materials.
 
 <!--
