@@ -1,8 +1,8 @@
-- 🔭 **I’m currently working on** LLMs for synthesis of novel 2D materials
+- 🔭 **I’m currently working on** local LLMs for synthesis of novel materials
 - 🌱 **I’m currently learning** langchain and docker!
 - 💬 **Ask me about** density functional theory
 - 📫 **How to reach me:** knykiel@purdue.edu
-- 😄 **Pronouns:** she/they
+- 😄 **Pronouns:** she/her
 
 <!--
 **katnykiel/katnykiel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
